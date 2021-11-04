@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "happy birthday^^",
+    introTitle: 'Dương Ngọc Mẫn',
+    introDesc: `Chảo bạn, mình và bạn cũng hơi thân
+    Tâm sự với nhau đủ thứ
+    Biết bí mật nhau, nên diệt khẩu ha
+    Tuổi mới sớm có bồ nhé`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    title: 'Phải chăng bạn đã yêu ngay từ cái nhìn đầu tiên 🥰',
+    desc: 'Phải chăng bạn đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'Bớt nha, chị m sợ trai <33',
+    btnNo: 'Khùng hả má, hóa ra m ghét t, t sẽ băm m:3',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại gặp mình <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    reply: 'Tại bạn mắc nợ mình ly sinh tố <33333333',
+    mess: 'nhớ mua nha chưa 🥰. Yêu bạn nhiều nhiều, sinh nhật bạn nhưng vẫn phải trả nợ tui 😘😘',
+    messDesc: 'Học kì qs nhớ dành time dắt tui đi ăn:)) còn học onl thì vẫn phải dắt vào ngày nào đó.',
+    btnAccept: 'Hứa rồi nha má <3',
+    messLink: 'https://github.com/zukahai/Confess-Crush' //https://www.facebook.com/messages/t/100055822231213
 }
